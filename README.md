@@ -2,7 +2,7 @@
 
 # Glass Browser
 
-> **Version 1.1** · [**Download the signed APK**](https://github.com/technicalnihilist-lgtm/nexa-browser/releases/download/glass-browser-v1.1/GlassBrowser.apk) · [all releases](https://github.com/technicalnihilist-lgtm/nexa-browser/releases)
+> **Version 1.1** · [**Download the signed APK**](https://github.com/technicalnihilist-lgtm/glass-browser/releases/download/v1.1/GlassBrowser.apk) · [all releases](https://github.com/technicalnihilist-lgtm/glass-browser/releases)
 >
 > 89 KB · Android 7.0+ · no ads, no account, no analytics
 
